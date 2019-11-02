@@ -3,7 +3,7 @@
 ## Install
 
 ```
-go get github.com/carsonoid/utgo-lightning-kingpin
+go get github.com/carsonoid/utgo-lightning-kingpin/...
 ```
 
 ## Examples
